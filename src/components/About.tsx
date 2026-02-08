@@ -8,7 +8,7 @@ export default function About() {
     { icon: Users, value: '340+', label: 'Clients' },
     { icon: Home, value: '800+', label: 'Residential Projects' },
     { icon: Briefcase, value: '50+', label: 'Commercial Projects' },
-    { icon: Award, value: '11+', label: 'Years of Experience' },
+    { icon: Award, value: '28+', label: 'Years of Experience' },
   ];
 
   return (
@@ -72,3 +72,4 @@ export default function About() {
     </section>
   );
 }
+
