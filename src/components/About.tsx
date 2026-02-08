@@ -6,8 +6,8 @@ export default function About() {
 
   const stats = [
     { icon: Users, value: '340+', label: 'Clients' },
-    { icon: Home, value: '800+', label: 'Residential Projects' },
-    { icon: Briefcase, value: '50+', label: 'Commercial Projects' },
+    { icon: Home, value: '1200+', label: 'Residential Projects' },
+    { icon: Briefcase, value: '65+', label: 'Commercial Projects' },
     { icon: Award, value: '28+', label: 'Years of Experience' },
   ];
 
@@ -72,4 +72,5 @@ export default function About() {
     </section>
   );
 }
+
 
