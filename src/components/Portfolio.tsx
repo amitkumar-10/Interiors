@@ -326,7 +326,7 @@ export default function Portfolio() {
 
             <div className="p-6">
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {filteredProjects.map((project, index) => (
+                {filteredProjects.map((project) => (  // Removed 'index' since it's unused
                   <div
                     key={project.id}
                     className="group relative overflow-hidden rounded-xl shadow-lg transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
@@ -354,3 +354,4 @@ export default function Portfolio() {
     </section>
   );
 }
+
