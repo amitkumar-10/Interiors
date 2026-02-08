@@ -19,7 +19,7 @@ export default function Logo({ variant = 'full', scrolled = false, size = 'md' }
 
   const textColor = scrolled ? 'text-gray-900' : 'text-white';
 
-  const iconColor = scrolled ? '#1f2937' : '#ffffff';
+  // Removed: const iconColor = scrolled ? '#1f2937' : '#ffffff';  // Unused variable
 
   if (variant === 'icon') {
     return (
