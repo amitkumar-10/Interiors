@@ -63,7 +63,7 @@ export default function Contact() {
                   rel="noopener noreferrer"
                   className="text-gray-700 hover:text-amber-600"
                 >
-                  Shri Shyam Nivas Puja Garden, <br />6th Cross Rd, NR Layout, Kanaka Nagar, <br />Bengaluru, Karnataka 560033
+                  Shiv Shakti Interiors, <br />1st Main 3rd Cross Rd, K. C. Krishna Reddy Layout, Margondanahalli, <br />Bengaluru, Kithiganur, Karnataka 560036
                 </a>
               </div>
             </div>
